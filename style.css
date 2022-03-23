@@ -108,6 +108,9 @@ body{
         flex-direction: column;
         align-items: center;
     }
+    #location-input::placeholder{
+        text-align: center;
+    }
 }
 #location-box:hover{
     caret-color: #fc8019;
