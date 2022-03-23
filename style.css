@@ -197,7 +197,7 @@ body{
 }
 /* pocket */
 #pocket{
-    /* background-color: tomato; */
+    background-color: tomato;
     background-color: white;
     display: flex;
     flex-direction: row;
